@@ -1,11 +1,11 @@
 # Site settings
 author: Roberto Livi
-title: Test
+title: Flatiron Experience
 header-img: img/home-bg.png
 email: robertomlivi@outlook.com
 copyright_name: Roberto Livi
 description: > # this means to ignore newlines until "baseurl:"
-  Testing
+  Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Roberto-Livi
