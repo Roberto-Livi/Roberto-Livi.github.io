@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Full Time to Part Time"
-date:       2020-02-24 15:52:28 +0000
+date:       2020-02-24 10:52:29 -0500
 permalink:  full_time_to_part_time
 ---
 
