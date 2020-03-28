@@ -115,7 +115,7 @@ while guess_limit > count && secret_number.to_i != guess.to_i
          guess = gets.chomp()
          count += 1
 				 
-	 if secret_number.to_i == guess.to_i && guess_limit < 5
+	if secret_number.to_i == guess.to_i && guess_limit < 5
           correct = true
    end
 	 
