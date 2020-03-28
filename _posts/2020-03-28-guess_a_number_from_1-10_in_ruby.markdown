@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Guess a number from 1-10 in Ruby"
-date:       2020-03-28 04:26:42 +0000
+date:       2020-03-28 00:26:43 -0400
 permalink:  guess_a_number_from_1-10_in_ruby
 ---
 
@@ -89,9 +89,9 @@ while guess_limit > count && secret_number.to_i != guess.to_i
          guess = gets.chomp()
          count += 1
 				 
-				 if secret_number.to_i == guess.to_i && guess_limit < 5
-                 correct = true
-         end
+    if secret_number.to_i == guess.to_i && guess_limit < 5
+      correct = true
+    end
 
 end
 ```
@@ -113,9 +113,9 @@ while guess_limit > count && secret_number.to_i != guess.to_i
          guess = gets.chomp()
          count += 1
 				 
-				 if secret_number.to_i == guess.to_i && guess_limit < 5
-                 correct = true
-         end
+	 if secret_number.to_i == guess.to_i && guess_limit < 5
+          correct = true
+   end
      puts correct ? "You Win" : "You Lose"
 end
 ```
