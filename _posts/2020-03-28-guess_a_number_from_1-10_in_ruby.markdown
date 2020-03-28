@@ -5,7 +5,7 @@ date:       2020-03-28 00:26:43 -0400
 permalink:  guess_a_number_from_1-10_in_ruby
 ---
 
-This is the first, very simple game that I made with Ruby. Just like the title suggests, you have to guess a number from 1-10 and hope that you guess the random number that the computer picked out. In this game, you have 4 chances to guess the correct number.
+Just like the title suggests, you have to guess a number from 1-10 and hope that you guess the random number that the computer picked out. In this game, you have 4 chances to guess the correct number.
 
 The method name I will be using will be called guess_the_number.
 
