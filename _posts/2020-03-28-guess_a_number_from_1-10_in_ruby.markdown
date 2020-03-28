@@ -68,6 +68,7 @@ while guess_limit > count && secret_number.to_i != guess.to_i
    puts "Guess a number from 1-10: "
          guess = gets.chomp()
          count += 1
+end
 
 end
 ```
@@ -92,6 +93,7 @@ while guess_limit > count && secret_number.to_i != guess.to_i
     if secret_number.to_i == guess.to_i && guess_limit < 5
       correct = true
     end
+end
 
 end
 ```
@@ -116,6 +118,8 @@ while guess_limit > count && secret_number.to_i != guess.to_i
 	 if secret_number.to_i == guess.to_i && guess_limit < 5
           correct = true
    end
+	 
+	 end
      puts correct ? "You Win" : "You Lose"
 end
 ```
