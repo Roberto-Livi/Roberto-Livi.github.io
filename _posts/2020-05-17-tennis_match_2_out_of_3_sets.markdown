@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Tennis Match 2 out of 3 Sets"
-date:       2020-05-18 02:23:49 +0000
+date:       2020-05-17 22:23:50 -0400
 permalink:  tennis_match_2_out_of_3_sets
 ---
 
@@ -65,7 +65,7 @@ We need to puts out statements that will let us keep track of who is winning. He
 while p1_score < set && p2_score < set
     outcome = rand(1..2)
 		
-		if outcome == 1
+	if outcome == 1
     p1_score += 1
   else
     p2_score += 1
@@ -87,7 +87,7 @@ In a tennis match, when it gets to 5-5, the player would now need to reach 7 in 
 while p1_score < set && p2_score < set
     outcome = rand(1..2)
 		
-		if outcome == 1
+	if outcome == 1
     p1_score += 1
   else
     p2_score += 1
@@ -111,7 +111,7 @@ And with these three additional lines of code, we have now completed the while l
 while p1_score < set && p2_score < set
     outcome = rand(1..2)
 		
-		if outcome == 1
+	if outcome == 1
     p1_score += 1
   else
     p2_score += 1
