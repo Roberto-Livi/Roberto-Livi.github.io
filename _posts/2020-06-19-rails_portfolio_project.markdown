@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project"
-date:       2020-06-19 19:44:23 +0000
+date:       2020-06-19 15:44:24 -0400
 permalink:  rails_portfolio_project
 ---
 
@@ -54,7 +54,7 @@ For example, I thought it was going to be nearly impossible to display all the p
             <% end %>
 ```
 
-When you take breaks, you're mind starts to clear up and you will be able to think more clearly. This has happened to me multiple times when working on this project.
+When you take breaks, your mind starts to clear up and you will be able to think more clearly. This has happened to me multiple times when working on this project.
 
 
 **Conclusion**
