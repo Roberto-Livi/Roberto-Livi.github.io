@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "React-Redux Project Summary"
-date:       2020-08-22 02:27:47 +0000
+date:       2020-08-21 22:27:48 -0400
 permalink:  react-redux_project_summary
 ---
 
 
-Out of all five projects from this program, this one was definitely the toughest one, so it felt rewarding to finish it the way I wanted to. Although it was. very frustrating to learn React at first, I still loved the structure and the principles that they want developers to follow when coding with React. I like how it looks clean and organized. Now, about the project...
+Out of all five projects from this program, this one was definitely the toughest one, so it felt rewarding to finish it the way I wanted to. While learning React, I loved the structure and the principles that they want developers to follow when coding with React. I like how it looks clean and organized. Learning React has been so rewarding and I can't wait to keep improving my React skills. Now, about the project...
 
 I started out the project the way I did with the others, by setting up the files and applying CSS to all the pages where I was going to put content in. I wanted the visual first before getting into the hard stuff. Once everything looked how I wanted, I started making little goals for myself that would eventually lead to the finish line.
 
