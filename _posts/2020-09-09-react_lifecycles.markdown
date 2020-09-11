@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Lifecycles"
-date:       2020-09-09 17:50:50 +0000
+date:       2020-09-09 13:50:51 -0400
 permalink:  react_lifecycles
 ---
 
@@ -22,7 +22,7 @@ class App extends React.Component {
 render() {
 
      return {
-		         <div>App</div>
+		<div>App</div>
 		 }
 		 
 }
@@ -175,15 +175,15 @@ const Demo = () => {
     return (
         <div>
 
-            <p>{count}</p>
+        <p>{count}</p>
 
-            <button onClick={() => setCount(count + 1)}>+</button>
+        <button onClick={() => setCount(count + 1)}>+</button>
 
-            <button onClick={() => setCount(count - 1)}>-</button>
+        <button onClick={() => setCount(count - 1)}>-</button>
 						
-						<p>{first()}</p>
+			  <p>{first()}</p>
 
-        </div>
+       </div>
     )
 
 }
