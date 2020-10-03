@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Java OOP (this vs super)"
-date:       2020-10-03 16:11:44 +0000
+date:       2020-10-03 12:11:45 -0400
 permalink:  java_oop_this_vs_super
 ---
 
@@ -37,7 +37,7 @@ public class Dinosaur {
 
      public void eat() { 
 		 
-		          System.out.println("Dinosaur eats");
+		 System.out.println("Dinosaur eats");
 		 
 		 }
 
@@ -47,8 +47,8 @@ public class Velociraptor extends Dinosaur {
 
        public void eat() { 
 		 
-		          super.eat();
-							System.out.println("Eat method printed in Velociraptor class");
+		   super.eat();
+			 System.out.println("Eat method printed in Velociraptor class");
 		 
 		 }
 
