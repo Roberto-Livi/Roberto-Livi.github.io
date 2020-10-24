@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Arrays in Java"
-date:       2020-10-23 21:38:47 +0000
+date:       2020-10-23 17:38:47 -0400
 permalink:  arrays_in_java
 ---
 
@@ -104,7 +104,7 @@ The output of this would be true, because "Leonardo" exists in the list array.
 
 **Conclusion**
 
-As you can see, you can a lot more with ArrayList. It depends how you want to handle your array. If you need to change the length of the array, you can use ArrayList, if you know the length of the array won't change, you can use the standard array declaration. I hope you were able to learn something from this post from the explanations and examples given. Till next time!
+As you can see, you can do a lot more with ArrayList. It depends how you want to handle your array. If you need to change the length of the array, you can use ArrayList, if you know the length of the array won't change, you can use the standard array declaration. I hope you were able to learn something from this post from the explanations and examples given. Till next time!
 
 
 
